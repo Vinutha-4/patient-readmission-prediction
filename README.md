@@ -8,7 +8,7 @@ Predicting which patients are at risk of hospital readmission is critical for im
 - **Domain:** Healthcare, hospital readmissions, diabetes management.
 - **Tech stack:** Python, pandas, scikit-learn, matplotlib, seaborn.
 - **ML task:** Binary classification (`readmitted`: yes / no).
-
+  
 The project walks through the full workflow: exploratory data analysis (EDA), feature engineering, model training and evaluation, and interpretation of key risk factors for readmission.[web:98][web:133]
 
 ## Dataset
