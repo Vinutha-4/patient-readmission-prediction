@@ -28,7 +28,7 @@ Source: Public hospital readmission dataset for diabetic patients (Kaggle: “Pr
 
 > To reproduce results, download the dataset from Kaggle and place the CSV in the `data/` folder (for example: `data/hospital_readmissions.csv`).
 
-## Methodology
+##Methodology
 
 1. **Exploratory Data Analysis**
    - Inspected shape, data types, and class balance.
