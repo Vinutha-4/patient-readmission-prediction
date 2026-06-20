@@ -27,7 +27,6 @@ The project walks through the full workflow: exploratory data analysis (EDA), fe
 Source: Public hospital readmission dataset for diabetic patients (Kaggle: “Predicting Hospital Readmissions”).[web:82][web:93]
 
 > To reproduce results, download the dataset from Kaggle and place the CSV in the `data/` folder (for example: `data/hospital_readmissions.csv`).
-
 ##Methodology
 
 1. **Exploratory Data Analysis**
